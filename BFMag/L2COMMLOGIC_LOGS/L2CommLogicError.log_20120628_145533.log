@@ -1,0 +1,34 @@
+2012-06-28 14:55:33  L2CommLogic Loaded
+2012-06-28 14:57:28  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptMaterialDischargeData::nFieldCount=5::954 LF_004.Addition.Store01 1 2012/6/2813:29:46 1  & 
+2012-06-28 14:57:28  ID:954  PLC_Address:LF_004.Addition.Store01  Amount:1  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 14:57:53  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptLFWireData::nFieldCount=6::2 LF_004.Wire.Code01 49.502 150 2012/6/2813:30:36 1  & 
+2012-06-28 14:57:53  ID:2  WireCode:LF_004.Wire.Code01  Weight:49.502  Speed:150  Wire_Time:2012/6/28 13:30:36  PERMIT_DELETE_FLAG:1  
+2012-06-28 14:59:35  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptMaterialDischargeData::nFieldCount=5::954 LF_004.Addition.Store02 1 2012/6/2813:29:46 1  & 
+2012-06-28 14:59:35  ID:954  PLC_Address:LF_004.Addition.Store02  Amount:1  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 14:59:41  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptLFWireData::nFieldCount=6::2 LF_004.Wire.Code02 49.502 150 2012/6/2813:30:36 1  & 
+2012-06-28 14:59:41  ID:2  WireCode:LF_004.Wire.Code02  Weight:49.502  Speed:150  Wire_Time:2012/6/28 13:30:36  PERMIT_DELETE_FLAG:1  
+2012-06-28 15:00:07  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptMaterialDischargeData::nFieldCount=5::954 LF_004.Addition.Store02 1 2012/6/2813:29:46 1  & 
+2012-06-28 15:00:07  ID:954  PLC_Address:LF_004.Addition.Store02  Amount:1  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 15:00:07  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptLFWireData::nFieldCount=6::2 LF_004.Wire.Code02 49.502 150 2012/6/2813:30:36 1  & 
+2012-06-28 15:00:07  ID:2  WireCode:LF_004.Wire.Code02  Weight:49.502  Speed:150  Wire_Time:2012/6/28 13:30:36  PERMIT_DELETE_FLAG:1  
+2012-06-28 15:01:23  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptMaterialDischargeData::nFieldCount=5::954 LF_004.Addition.Store05 1 2012/6/2813:29:46 1  & 
+2012-06-28 15:01:23  ID:954  PLC_Address:LF_004.Addition.Store05  Amount:1  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 15:01:23  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptLFWireData::nFieldCount=6::2 LF_004.Wire.Code02 49.502 150 2012/6/2813:30:36 1  & 
+2012-06-28 15:01:23  ID:2  WireCode:LF_004.Wire.Code02  Weight:49.502  Speed:150  Wire_Time:2012/6/28 13:30:36  PERMIT_DELETE_FLAG:1  
+2012-06-28 15:10:32  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptMaterialDischargeData::nFieldCount=5::954 LF_004.LFHopper.Hopper02 34 2012/6/2813:29:46 1  & 
+2012-06-28 15:10:32  ID:954  PLC_Address:LF_004.LFHopper.Hopper02  Amount:34  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 15:24:11  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptMaterialDischargeData::nFieldCount=5::954 LF_004.LFHopper.Hopper02 34 2012/6/2813:29:46 1  & 
+2012-06-28 15:24:11  ID:954  PLC_Address:LF_004.LFHopper.Hopper02  Amount:34  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 15:25:30  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptMaterialDischargeData::nFieldCount=5::954 LF_004.LFHopper.Hopper02 1 2012/6/2813:29:46 1  & 954 LF_004.Addition.Store05 2 2012/6/2813:29:46 1  & 
+2012-06-28 15:25:30  ID:954  PLC_Address:LF_004.LFHopper.Hopper02  Amount:1  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 15:25:30  ID:954  PLC_Address:LF_004.Addition.Store05  Amount:2  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 15:26:03  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptMaterialDischargeData::nFieldCount=5::954 LF_004.LFHopper.Hopper02 3 2012/6/2813:29:46 1  & 954 LF_004.Addition.Store05 4 2012/6/2813:29:46 1  & 
+2012-06-28 15:26:03  ID:954  PLC_Address:LF_004.LFHopper.Hopper02  Amount:3  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 15:26:03  ID:954  PLC_Address:LF_004.Addition.Store05  Amount:4  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 15:36:42  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptMaterialDischargeData::nFieldCount=5::954 LF_004.LFHopper.Hopper02 5 2012/6/2813:29:46 1  & 954 LF_004.Addition.Store05 6 2012/6/2813:29:46 1  & 954 LF_004.LFHopper.Hopper02 7 2012/6/2813:29:46 1  & 954 LF_004.Addition.Store05 8 2012/6/2813:29:46 1  & 954 LF_004.LFHopper.Hopper02 9 2012/6/2813:29:46 1  & 954 LF_004.Addition.Store05 10 2012/6/2813:29:46 1  & 
+2012-06-28 15:36:42  ID:954  PLC_Address:LF_004.LFHopper.Hopper02  Amount:5  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 15:36:42  ID:954  PLC_Address:LF_004.Addition.Store05  Amount:6  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 15:36:42  ID:954  PLC_Address:LF_004.LFHopper.Hopper02  Amount:7  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 15:36:42  ID:954  PLC_Address:LF_004.Addition.Store05  Amount:8  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 15:36:42  ID:954  PLC_Address:LF_004.LFHopper.Hopper02  Amount:9  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 15:36:42  ID:954  PLC_Address:LF_004.Addition.Store05  Amount:10  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  

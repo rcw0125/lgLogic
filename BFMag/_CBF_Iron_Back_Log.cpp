@@ -1,0 +1,68 @@
+// 逻辑类CBF_Iron_Back_Log源文件
+// 本文件是由L3集成开发环境自动生成，在没有充分了解本文件的内容前，请不要随意修改本文件中的内容
+// 否则可能带来严重后果。
+
+#include "StdAfx.h"
+#include "_CBF_Iron_Back_Log.h"
+
+IMPLEMENT_L3CLASS(CBF_Iron_Back_Log,CL3Object,1)
+
+BEGIN_L3PROPTABLE(CBF_Iron_Back_Log,CL3Object)
+L3PROP_STRING(BFID)
+	L3PROP_STRING(TAP_No)
+	L3PROP_STRING(TPC_No)
+	L3PROP_LONG(Source)
+	L3PROP_LONG(Destination)
+	L3PROP_DATETIME(Production_Date)
+	L3PROP_LONG(Shift)
+	L3PROP_STRING(Operator)
+	L3PROP_LONG(NC_Confirm_Flag)
+	L3PROP_LONG(Team)
+	L3PROP_LONG(Result)
+	L3PROP_STRING(Sample_Place)
+	L3PROP_STRING_LEN(C,30)
+	L3PROP_STRING_LEN(Si,30)
+	L3PROP_STRING_LEN(Mn,30)
+	L3PROP_STRING_LEN(S,30)
+	L3PROP_STRING_LEN(P,30)
+	L3PROP_STRING_LEN(Ti,30)
+	L3PROP_FLOAT(Gross_Weight)
+	L3PROP_FLOAT(Last_Tare)
+	L3PROP_FLOAT(Curr_Tare)
+	L3PROP_FLOAT(Net_Weight)
+	L3PROP_DOUBLE(Spare_Weight)
+	L3PROP_LONG(IronStatus)
+	L3PROP_DATETIME(Arrival_Time)
+	L3PROP_DATETIME(Feed_Time)
+	L3PROP_DATETIME(Send_Time)
+	L3PROP_STRING(SampCode)
+	L3PROP_LONG(IronConfirm)
+	L3PROP_STRING_LEN(C_B,30)
+	L3PROP_STRING_LEN(Si_B,30)
+	L3PROP_STRING_LEN(Mn_B,30)
+	L3PROP_STRING_LEN(S_B,30)
+	L3PROP_STRING_LEN(P_B,30)
+	L3PROP_STRING_LEN(Ti_B,30)
+	L3PROP_LONG(GrossFlag)
+	L3PROP_LONG(TareFlag)
+	L3PROP_LONG(AnalysisFlag)
+	L3PROP_STRING(Operator_B)
+	L3PROP_STRING(Back_Operator)
+	L3PROP_STRING(Back_Team)
+	L3PROP_STRING(Back_Shift)
+	L3PROP_DATETIME(Back_Time)
+END_L3PROPTABLE(CBF_Iron_Back_Log)
+
+BEGIN_L3METHODMAP(CBF_Iron_Back_Log,CL3Object)
+END_L3METHODMAP()
+
+BEGIN_L3EVENTSINK_MAP(CBF_Iron_Back_Log,CL3Object)
+END_L3EVENTSINK_MAP(CBF_Iron_Back_Log)
+
+CBF_Iron_Back_Log::CBF_Iron_Back_Log(void)
+{
+}
+
+CBF_Iron_Back_Log::~CBF_Iron_Back_Log(void)
+{
+}

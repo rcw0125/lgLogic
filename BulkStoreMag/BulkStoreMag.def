@@ -1,0 +1,7 @@
+; BulkStoreMag.def : 声明 DLL 的模块参数。
+
+LIBRARY      "BulkStoreMag"
+
+EXPORTS
+    ; 此处可以是显式导出
+	GetL3Component

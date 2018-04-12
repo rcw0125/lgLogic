@@ -1,0 +1,247 @@
+2012-06-17 13:55:59  ID:369  WireCode:LF_004.Wire.Code03  Weight:65.912  Speed:100  Wire_Time:2012-6-17 6:12:11  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:368  WireCode:LF_004.Wire.Code01  Weight:50.016  Speed:130  Wire_Time:2012-6-17 6:02:59  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:367  WireCode:LF_004.Wire.Code02  Weight:14.99  Speed:130  Wire_Time:2012-6-17 5:49:28  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:366  WireCode:LF_004.Wire.Code03  Weight:98.75  Speed:100  Wire_Time:2012-6-17 5:32:30  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:365  WireCode:LF_004.Wire.Code02  Weight:14.996  Speed:130  Wire_Time:2012-6-17 5:11:46  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:364  WireCode:LF_004.Wire.Code03  Weight:110.642  Speed:100  Wire_Time:2012-6-17 5:05:28  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:363  WireCode:LF_004.Wire.Code01  Weight:50.012  Speed:130  Wire_Time:2012-6-17 4:59:59  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:362  WireCode:LF_004.Wire.Code02  Weight:24.996  Speed:130  Wire_Time:2012-6-17 4:46:09  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:361  WireCode:LF_004.Wire.Code02  Weight:29.998  Speed:130  Wire_Time:2012-6-17 4:43:55  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:360  WireCode:LF_004.Wire.Code03  Weight:108.736  Speed:100  Wire_Time:2012-6-17 4:37:04  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:359  WireCode:LF_004.Wire.Code01  Weight:50.014  Speed:130  Wire_Time:2012-6-17 4:26:56  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:358  WireCode:LF_004.Wire.Code02  Weight:24.994  Speed:130  Wire_Time:2012-6-17 4:13:07  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:357  WireCode:LF_004.Wire.Code03  Weight:110.208  Speed:100  Wire_Time:2012-6-17 4:02:00  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:356  WireCode:LF_004.Wire.Code01  Weight:20.012  Speed:130  Wire_Time:2012-6-17 3:55:02  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:355  WireCode:LF_004.Wire.Code02  Weight:69.97  Speed:130  Wire_Time:2012-6-17 3:42:42  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:354  WireCode:LF_004.Wire.Code03  Weight:111.208  Speed:100  Wire_Time:2012-6-17 3:15:30  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:353  WireCode:LF_004.Wire.Code01  Weight:45.51  Speed:130  Wire_Time:2012-6-17 3:05:55  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:352  WireCode:LF_004.Wire.Code02  Weight:59.978  Speed:130  Wire_Time:2012-6-17 2:49:12  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:351  WireCode:LF_004.Wire.Code03  Weight:108.118  Speed:100  Wire_Time:2012-6-17 2:40:36  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:350  WireCode:LF_004.Wire.Code01  Weight:30.004  Speed:130  Wire_Time:2012-6-17 2:27:24  Permit_Delete_Flag:1  
+2012-06-17 13:55:59  ID:349  WireCode:LF_004.Wire.Code02  Weight:39.97  Speed:130  Wire_Time:2012-6-17 2:26:47  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  URI=XGMESLogic\RHMag\CRH_Unit_Mag\S51::METHOD=AcceptRHBlowArData::nFieldCount=5::294122 A 0 2012-6-172:19:39 1  & 294123 A 0 2012-6-172:24:40 1  & 294124 A 0 2012-6-172:29:40 1  & 294125 A 0 2012-6-172:34:40 1  & 294126 A 0 2012-6-172:39:40 1  & 294127 A 0 2012-6-172:44:41 1  & 294128 A 0 2012-6-172:49:41 1  & 294129 A 0 2012-6-172:54:41 1  & 294130 A 0 2012-6-172:59:41 1  & 294131 A 0 2012-6-173:04:41 1  & 294132 A 0 2012-6-173:09:41 1  & 294133 A 0 2012-6-173:14:41 1  & 294134 A 0 2012-6-173:19:41 1  & 294135 A 0 2012-6-173:24:41 1  & 294136 A 0 2012-6-173:29:42 1  & 294137 A 0 2012-6-173:34:42 1  & 294138 A 0 2012-6-173:39:42 1  & 294139 A 0 2012-6-173:44:42 1  & 294140 A 0 2012-6-173:49:42 1  & 294141 A 0 2012-6-173:54:42 1  & 294142 A 0 2012-6-173:59:42 1  & 294143 A 0 2012-6-174:04:42 1  & 294144 A 0 2012-6-174:09:42 1  & 294145 A 0 2012-6-174:14:42 1  & 294146 A 0 2012-6-174:19:42 1  & 294147 A 0 2012-6-174:24:42 1  & 294148 A 0 2012-6-174:29:42 1  & 294149 A 0 2012-6-174:34:43 1  & 294150 A 0 2012-6-174:39:43 1  & 294151 A 0 2012-6-174:44:43 1  & 294152 A 0 2012-6-174:49:43 1  & 294153 A 0 2012-6-174:54:44 1  & 294154 A 0 2012-6-174:59:45 1  & 294155 A 0 2012-6-175:04:46 1  & 294156 A 0 2012-6-175:09:47 1  & 294157 A 0 2012-6-175:14:47 1  & 294158 A 0 2012-6-175:19:47 1  & 294159 A 0 2012-6-175:24:47 1  & 294160 A 0 2012-6-175:29:48 1  & 294161 A 0 2012-6-175:34:48 1  & 294162 A 0 2012-6-175:39:48 1  & 294163 A 0 2012-6-175:44:48 1  & 294164 A 0 2012-6-175:49:48 1  & 294165 A 0 2012-6-175:54:48 1  & 294166 A 0 2012-6-175:59:48 1  & 294167 A 0 2012-6-176:04:48 1  & 294168 A 0 2012-6-176:09:48 1  & 294169 A 0 2012-6-176:14:48 1  & 294170 A 0 2012-6-176:19:48 1  & 294171 A 0 2012-6-176:24:48 1  & 294172 A 0 2012-6-176:29:48 1  & 294173 A 0 2012-6-176:34:48 1  & 294174 A 0 2012-6-176:39:48 1  & 294175 A 0 2012-6-176:44:48 1  & 294176 A 0 2012-6-176:49:48 1  & 294177 A 0 2012-6-176:54:48 1  & 294178 A 0 2012-6-176:59:48 1  & 294179 A 0 2012-6-177:04:48 1  & 294180 A 0 2012-6-177:09:48 1  & 294181 A 0 2012-6-177:14:48 1  & 294182 A 0 2012-6-177:19:48 1  & 294183 A 0 2012-6-177:24:48 1  & 294184 A 0 2012-6-177:29:48 1  & 294185 A 0 2012-6-177:34:48 1  & 294186 A 0 2012-6-177:39:48 1  & 294187 A 0 2012-6-177:44:49 1  & 294188 A 0 2012-6-177:49:49 1  & 294189 A 0 2012-6-177:54:49 1  & 294190 A 0 2012-6-177:59:49 1  & 294191 A 0 2012-6-178:04:49 1  & 294192 A 0 2012-6-178:09:49 1  & 294193 A 0 2012-6-178:14:49 1  & 294194 A 0 2012-6-178:19:49 1  & 294195 A 0 2012-6-178:24:49 1  & 294196 A 0 2012-6-178:29:49 1  & 294197 A 0 2012-6-178:34:49 1  & 294198 A 0 2012-6-178:39:49 1  & 294199 A 0 2012-6-178:44:49 1  & 294200 A 0 2012-6-178:49:50 1  & 294201 A 0 2012-6-178:54:50 1  & 294202 A 0 2012-6-178:59:50 1  & 294203 A 0 2012-6-179:04:50 1  & 294204 A 0 2012-6-179:09:50 1  & 294205 A 0 2012-6-179:14:50 1  & 294206 A 0 2012-6-179:19:50 1  & 294207 A 0 2012-6-179:24:50 1  & 294208 A 0 2012-6-179:29:50 1  & 294209 A 0 2012-6-179:34:50 1  & 294210 A 0 2012-6-179:39:51 1  & 294211 A 0 2012-6-179:44:51 1  & 294212 A 0 2012-6-179:49:51 1  & 294213 A 0 2012-6-179:54:51 1  & 294214 A 0 2012-6-179:59:51 1  & 294215 A 0 2012-6-1710:04:51 1  & 294216 A 0 2012-6-1710:09:51 1  & 294217 A 0 2012-6-1710:14:51 1  & 294218 A 0 2012-6-1710:19:51 1  & 294219 A 0 2012-6-1710:24:51 1  & 294220 A 0 2012-6-1710:29:51 1  & 294221 A 0 2012-6-1710:34:51 1  & 294222 A 0 2012-6-1710:39:51 1  & 294223 A 0 2012-6-1710:44:51 1  & 294224 A 0 2012-6-1710:49:51 1  & 294225 A 0 2012-6-1710:54:51 1  & 294226 A 0 2012-6-1710:59:51 1  & 294227 A 0 2012-6-1711:04:51 1  & 294228 A 0 2012-6-1711:09:51 1  & 294229 A 0 2012-6-1711:14:51 1  & 294230 A 0 2012-6-1711:19:51 1  & 294231 A 0 2012-6-1711:24:51 1  & 294232 A 0 2012-6-1711:29:51 1  & 294233 A 0 2012-6-1711:34:52 1  & 294234 A 0 2012-6-1711:39:52 1  & 294235 A 0 2012-6-1711:44:52 1  & 294236 A 0 2012-6-1711:49:52 1  & 294237 A 0 2012-6-1711:54:52 1  & 294238 A 0 2012-6-1711:59:52 1  & 294239 A 0 2012-6-1712:04:52 1  & 294240 A 0 2012-6-1712:09:52 1  & 294241 A 0 2012-6-1712:14:52 1  & 294242 A 0 2012-6-1712:19:52 1  & 294243 A 0 2012-6-1712:24:53 1  & 294244 A 0 2012-6-1712:29:53 1  & 294245 A 0 2012-6-1712:34:53 1  & 294246 A 0 2012-6-1712:39:54 1  & 294247 A 0 2012-6-1712:44:54 1  & 294248 A 0 2012-6-1712:49:54 1  & 294249 A 0 2012-6-1712:54:54 1  & 294250 A 0 2012-6-1712:59:54 1  & 294251 A 0 2012-6-1713:04:54 1  & 294252 A 0 2012-6-1713:09:54 1  & 294253 A 0 2012-6-1713:14:54 1  & 294254 A 0 2012-6-1713:19:54 1  & 294255 A 0 2012-6-1713:24:55 1  & 294256 A 0 2012-6-1713:29:55 1  & 294257 A 0 2012-6-1713:34:56 1  & 294258 A 0 2012-6-1713:39:56 1  & 294259 A 0 2012-6-1713:44:56 1  & 294260 A 0 2012-6-1713:49:57 1  & 294261 A 0 2012-6-1713:54:57 1  & 
+2012-06-17 13:56:01  ID:294122  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 2:19:39  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294123  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 2:24:40  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294124  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 2:29:40  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294125  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 2:34:40  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294126  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 2:39:40  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294127  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 2:44:41  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294128  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 2:49:41  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294129  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 2:54:41  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294130  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 2:59:41  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294131  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 3:04:41  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294132  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 3:09:41  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294133  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 3:14:41  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294134  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 3:19:41  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294135  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 3:24:41  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294136  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 3:29:42  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294137  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 3:34:42  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294138  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 3:39:42  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294139  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 3:44:42  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294140  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 3:49:42  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294141  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 3:54:42  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294142  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 3:59:42  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294143  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 4:04:42  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294144  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 4:09:42  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294145  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 4:14:42  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294146  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 4:19:42  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294147  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 4:24:42  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294148  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 4:29:42  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294149  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 4:34:43  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294150  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 4:39:43  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294151  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 4:44:43  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294152  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 4:49:43  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294153  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 4:54:44  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294154  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 4:59:45  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294155  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 5:04:46  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294156  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 5:09:47  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294157  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 5:14:47  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294158  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 5:19:47  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294159  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 5:24:47  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294160  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 5:29:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294161  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 5:34:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294162  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 5:39:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294163  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 5:44:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294164  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 5:49:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294165  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 5:54:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294166  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 5:59:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294167  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 6:04:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294168  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 6:09:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294169  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 6:14:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294170  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 6:19:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294171  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 6:24:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294172  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 6:29:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294173  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 6:34:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294174  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 6:39:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294175  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 6:44:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294176  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 6:49:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294177  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 6:54:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294178  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 6:59:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294179  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 7:04:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294180  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 7:09:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294181  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 7:14:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294182  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 7:19:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294183  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 7:24:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294184  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 7:29:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294185  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 7:34:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294186  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 7:39:48  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294187  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 7:44:49  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294188  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 7:49:49  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294189  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 7:54:49  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294190  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 7:59:49  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294191  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 8:04:49  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294192  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 8:09:49  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294193  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 8:14:49  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294194  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 8:19:49  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294195  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 8:24:49  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294196  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 8:29:49  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294197  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 8:34:49  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294198  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 8:39:49  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294199  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 8:44:49  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294200  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 8:49:50  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294201  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 8:54:50  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294202  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 8:59:50  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294203  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 9:04:50  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294204  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 9:09:50  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294205  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 9:14:50  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294206  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 9:19:50  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294207  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 9:24:50  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294208  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 9:29:50  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294209  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 9:34:50  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294210  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 9:39:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294211  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 9:44:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294212  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 9:49:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294213  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 9:54:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294214  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 9:59:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294215  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 10:04:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294216  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 10:09:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294217  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 10:14:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294218  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 10:19:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294219  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 10:24:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294220  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 10:29:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294221  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 10:34:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294222  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 10:39:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294223  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 10:44:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294224  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 10:49:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294225  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 10:54:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294226  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 10:59:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294227  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 11:04:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294228  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 11:09:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294229  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 11:14:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294230  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 11:19:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294231  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 11:24:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294232  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 11:29:51  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294233  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 11:34:52  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294234  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 11:39:52  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294235  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 11:44:52  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294236  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 11:49:52  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294237  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 11:54:52  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294238  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 11:59:52  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294239  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 12:04:52  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294240  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 12:09:52  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294241  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 12:14:52  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294242  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 12:19:52  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294243  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 12:24:53  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294244  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 12:29:53  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294245  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 12:34:53  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294246  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 12:39:54  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294247  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 12:44:54  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294248  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 12:49:54  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294249  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 12:54:54  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294250  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 12:59:54  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294251  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 13:04:54  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294252  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 13:09:54  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294253  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 13:14:54  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294254  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 13:19:54  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294255  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 13:24:55  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294256  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 13:29:55  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294257  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 13:34:56  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294258  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 13:39:56  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294259  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 13:44:56  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294260  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 13:49:57  Permit_Delete_Flag:1  
+2012-06-17 13:56:01  ID:294261  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 13:54:57  Permit_Delete_Flag:1  
+2012-06-17 13:56:10  URI=XGMESLogic\VacTubeMag\CVacTube_Mag\VacTubeMag::METHOD=AccepteFireData::nFieldCount=9::B 5.041 1500 98 100 2 2012-6-172:49:50 1 21  & A 5.041 1500 101 100 2 2012-6-172:51:00 1 21  & B 5.041 1500 98 101 2 2012-6-173:49:50 1 22  & A 5.041 1500 103 100 2 2012-6-173:51:00 1 22  & B 5.041 1500 99 100 2 2012-6-174:49:50 1 23  & A 5.041 1500 99 100 2 2012-6-174:51:00 1 23  & B 5.041 1500 97 100 2 2012-6-175:49:51 1 24  & A 5.041 1500 98 100 2 2012-6-175:51:01 1 24  & B 5.041 1500 95 100 2 2012-6-176:49:51 1 25  & A 5.041 1500 98 100 2 2012-6-176:51:01 1 25  & B 5.041 1500 94 100 2 2012-6-177:49:51 1 26  & A 5.041 1500 97 100 2 2012-6-177:51:02 1 26  & B 5.041 1500 93 100 2 2012-6-178:49:51 1 27  & A 5.041 1500 103 100 2 2012-6-178:51:02 1 27  & B 5.041 1500 100 100 2 2012-6-179:49:51 1 28  & A 5.041 1500 102 100 2 2012-6-179:51:02 1 28  & B 5.041 1500 99 100 2 2012-6-1710:49:51 1 29  & A 5.041 1500 97 100 2 2012-6-1710:51:02 1 29  & B 5.041 1500 101 100 2 2012-6-1711:49:51 1 30  & A 5.041 1500 102 100 2 2012-6-1711:51:02 1 30  & B 5.041 1500 100 100 2 2012-6-1712:49:51 1 31  & A 5.041 1500 103 99 2 2012-6-1712:51:02 1 31  & B 5.041 1500 102 100 2 2012-6-1713:49:51 1 32  & A 5.041 1500 102 100 2 2012-6-1713:51:02 1 32  & 
+2012-06-17 13:56:10  LanceID:B  Height:5.041  Temp:1500  O2_Flow:98  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 2:49:50  PERMIT_DELETE_FLAG:1  Catch_Count:21  
+2012-06-17 13:56:10  LanceID:A  Height:5.041  Temp:1500  O2_Flow:101  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 2:51:00  PERMIT_DELETE_FLAG:1  Catch_Count:21  
+2012-06-17 13:56:10  LanceID:B  Height:5.041  Temp:1500  O2_Flow:98  CO_Flow:101  Mode:2  MeasureTime:2012-6-17 3:49:50  PERMIT_DELETE_FLAG:1  Catch_Count:22  
+2012-06-17 13:56:10  LanceID:A  Height:5.041  Temp:1500  O2_Flow:103  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 3:51:00  PERMIT_DELETE_FLAG:1  Catch_Count:22  
+2012-06-17 13:56:10  LanceID:B  Height:5.041  Temp:1500  O2_Flow:99  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 4:49:50  PERMIT_DELETE_FLAG:1  Catch_Count:23  
+2012-06-17 13:56:10  LanceID:A  Height:5.041  Temp:1500  O2_Flow:99  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 4:51:00  PERMIT_DELETE_FLAG:1  Catch_Count:23  
+2012-06-17 13:56:10  LanceID:B  Height:5.041  Temp:1500  O2_Flow:97  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 5:49:51  PERMIT_DELETE_FLAG:1  Catch_Count:24  
+2012-06-17 13:56:10  LanceID:A  Height:5.041  Temp:1500  O2_Flow:98  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 5:51:01  PERMIT_DELETE_FLAG:1  Catch_Count:24  
+2012-06-17 13:56:10  LanceID:B  Height:5.041  Temp:1500  O2_Flow:95  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 6:49:51  PERMIT_DELETE_FLAG:1  Catch_Count:25  
+2012-06-17 13:56:10  LanceID:A  Height:5.041  Temp:1500  O2_Flow:98  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 6:51:01  PERMIT_DELETE_FLAG:1  Catch_Count:25  
+2012-06-17 13:56:10  LanceID:B  Height:5.041  Temp:1500  O2_Flow:94  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 7:49:51  PERMIT_DELETE_FLAG:1  Catch_Count:26  
+2012-06-17 13:56:10  LanceID:A  Height:5.041  Temp:1500  O2_Flow:97  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 7:51:02  PERMIT_DELETE_FLAG:1  Catch_Count:26  
+2012-06-17 13:56:10  LanceID:B  Height:5.041  Temp:1500  O2_Flow:93  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 8:49:51  PERMIT_DELETE_FLAG:1  Catch_Count:27  
+2012-06-17 13:56:10  LanceID:A  Height:5.041  Temp:1500  O2_Flow:103  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 8:51:02  PERMIT_DELETE_FLAG:1  Catch_Count:27  
+2012-06-17 13:56:10  LanceID:B  Height:5.041  Temp:1500  O2_Flow:100  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 9:49:51  PERMIT_DELETE_FLAG:1  Catch_Count:28  
+2012-06-17 13:56:10  LanceID:A  Height:5.041  Temp:1500  O2_Flow:102  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 9:51:02  PERMIT_DELETE_FLAG:1  Catch_Count:28  
+2012-06-17 13:56:10  LanceID:B  Height:5.041  Temp:1500  O2_Flow:99  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 10:49:51  PERMIT_DELETE_FLAG:1  Catch_Count:29  
+2012-06-17 13:56:10  LanceID:A  Height:5.041  Temp:1500  O2_Flow:97  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 10:51:02  PERMIT_DELETE_FLAG:1  Catch_Count:29  
+2012-06-17 13:56:10  LanceID:B  Height:5.041  Temp:1500  O2_Flow:101  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 11:49:51  PERMIT_DELETE_FLAG:1  Catch_Count:30  
+2012-06-17 13:56:10  LanceID:A  Height:5.041  Temp:1500  O2_Flow:102  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 11:51:02  PERMIT_DELETE_FLAG:1  Catch_Count:30  
+2012-06-17 13:56:10  LanceID:B  Height:5.041  Temp:1500  O2_Flow:100  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 12:49:51  PERMIT_DELETE_FLAG:1  Catch_Count:31  
+2012-06-17 13:56:10  LanceID:A  Height:5.041  Temp:1500  O2_Flow:103  CO_Flow:99  Mode:2  MeasureTime:2012-6-17 12:51:02  PERMIT_DELETE_FLAG:1  Catch_Count:31  
+2012-06-17 13:56:10  LanceID:B  Height:5.041  Temp:1500  O2_Flow:102  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 13:49:51  PERMIT_DELETE_FLAG:1  Catch_Count:32  
+2012-06-17 13:56:10  LanceID:A  Height:5.041  Temp:1500  O2_Flow:102  CO_Flow:100  Mode:2  MeasureTime:2012-6-17 13:51:02  PERMIT_DELETE_FLAG:1  Catch_Count:32  
+2012-06-17 13:56:18  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFArrivalData::nFieldCount=4::66598 A 2012-6-1713:54:49 1  & 
+2012-06-17 13:56:18  ID:66598  AreaID:A  ArrivalTime:2012-6-17 13:54:49  PERMIT_DELETE_FLAG:1  
+2012-06-17 13:56:18  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFBlowArData::nFieldCount=5::112356 109.9899 B 2012-6-1713:55:39 1  & 
+2012-06-17 13:56:18  ID:112356  Flow_BlowAr:109.9899  AreaID:B  MeasureTime:2012-6-17 13:55:39  Permit_Delete_Flag:1  
+2012-06-17 13:56:18  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFHeatData::nFieldCount=4::274599 2 2012-6-1713:56:16 1  & 274598 1 2012-6-1713:54:50 1  & 
+2012-06-17 13:56:18  ID:274599  HeatStatus:2  MeasureTime:2012-6-17 13:56:16  PERMIT_DELETE_FLAG:1  
+2012-06-17 13:56:18  ID:274598  HeatStatus:1  MeasureTime:2012-6-17 13:54:50  PERMIT_DELETE_FLAG:1  
+2012-06-17 13:56:18  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFStartSoftBlowData::nFieldCount=4::26275 B 2012-6-1713:56:39 1  & 
+2012-06-17 13:56:18  ID:26275  AreaID:B  MeasureTime:2012-6-17 13:56:39  PERMIT_DELETE_FLAG:1  
+2012-06-17 13:56:18  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFTempData::nFieldCount=6::177686 1593 3 2012-6-1713:54:43 1 C  & 
+2012-06-17 13:56:18  ID:177686  Temperature:1593  Mode:3  MeasureTime:2012-6-17 13:54:43  PERMIT_DELETE_FLAG:1  AreaID:C  
+2012-06-17 13:56:18  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFWireData::nFieldCount=6::68890 LF_001.Wire.Code02 180 120 2012-6-1713:54:37 1  & 
+2012-06-17 13:56:18  ID:68890  WireCode:LF_001.Wire.Code02  Weight:180  Speed:120  Wire_Time:2012-6-17 13:54:37  PERMIT_DELETE_FLAG:1  
+2012-06-17 13:56:19  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S43::METHOD=AcceptLFBlowArData::nFieldCount=5::220056 49.87631 B 2012-6-1713:55:46 1  & 
+2012-06-17 13:56:19  ID:220056  Flow_BlowAr:49.87631  AreaID:B  MeasureTime:2012-6-17 13:55:46  Permit_Delete_Flag:1  
+2012-06-17 13:56:24  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFEndProcessData::nFieldCount=6::27210 B 1009 5 2012-6-1713:56:47 1  & 
+2012-06-17 13:56:24  ID:27210  AreaID:B  Heat_Time:1009  Heat_Count:5  MeasureTime:2012-6-17 13:56:47  PERMIT_DELETE_FLAG:1  
+2012-06-17 13:56:29  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S43::METHOD=AcceptLFBlowArFlow::nFieldCount=7::165994 S41 2 64 2012-6-1713:56:51 1 B  & 
+2012-06-17 13:56:29  ID:165994  LFID:S41  Mode:2  Flow_BlowAr:64  MeasureTime:2012-6-17 13:56:51  Permit_Delete_Flag:1  AreaID:B  
+2012-06-17 13:56:40  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFHeatGears::nFieldCount=4::282686 5 2012-6-1713:56:58 1  & 
+2012-06-17 13:56:40  ID:282686  Gears:5  MeasureTime:2012-6-17 13:56:58  Permit_Delete_Flag:1  
+2012-06-17 13:56:45  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFHeatGears::nFieldCount=4::282687 4 2012-6-1713:57:03 1  & 282688 3 2012-6-1713:57:08 1  & 
+2012-06-17 13:56:45  ID:282687  Gears:4  MeasureTime:2012-6-17 13:57:03  Permit_Delete_Flag:1  
+2012-06-17 13:56:45  ID:282688  Gears:3  MeasureTime:2012-6-17 13:57:08  Permit_Delete_Flag:1  
+2012-06-17 13:56:50  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFHeatGears::nFieldCount=4::282689 2 2012-6-1713:57:13 1  & 
+2012-06-17 13:56:50  ID:282689  Gears:2  MeasureTime:2012-6-17 13:57:13  Permit_Delete_Flag:1  
+2012-06-17 13:56:55  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFHeatGears::nFieldCount=4::282690 1 2012-6-1713:57:18 1  & 
+2012-06-17 13:56:55  ID:282690  Gears:1  MeasureTime:2012-6-17 13:57:18  Permit_Delete_Flag:1  
+2012-06-17 13:58:11  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptMaterialDischargeData::nFieldCount=5:: LF_001.LFHopper.Hopper01 30.328 2012-6-1713:58:30 1  &  LF_001.LFHopper.Hopper02 28.827 2012-6-1713:58:30 1  & 
+2012-06-17 13:58:11  ID:0  PLC_Address:LF_001.LFHopper.Hopper01  Amount:30.328  Discharge_Time:2012-6-17 13:58:30  PERMIT_DELETE_FLAG:1  
+2012-06-17 13:58:11  ID:0  PLC_Address:LF_001.LFHopper.Hopper02  Amount:28.827  Discharge_Time:2012-6-17 13:58:30  PERMIT_DELETE_FLAG:1  
+2012-06-17 13:58:17  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFStartProcessData::nFieldCount=4::27236 A 2012-6-1713:58:35 1  & 
+2012-06-17 13:58:17  ID:27236  AreaID:A  MeasureTime:2012-6-17 13:58:35  PERMIT_DELETE_FLAG:1  
+2012-06-17 13:58:58  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S43::METHOD=AcceptLFBlowArFlow::nFieldCount=7::165995 S41 1 150 2012-6-1713:59:21 1 A  & 
+2012-06-17 13:58:58  ID:165995  LFID:S41  Mode:1  Flow_BlowAr:150  MeasureTime:2012-6-17 13:59:21  Permit_Delete_Flag:1  AreaID:A  
+2012-06-17 13:58:58  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFHeatData::nFieldCount=4::274600 1 2012-6-1713:59:21 1  & 
+2012-06-17 13:58:58  ID:274600  HeatStatus:1  MeasureTime:2012-6-17 13:59:21  PERMIT_DELETE_FLAG:1  
+2012-06-17 13:59:13  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFHeatGears::nFieldCount=4::282691 2 2012-6-1713:59:32 1  & 
+2012-06-17 13:59:13  ID:282691  Gears:2  MeasureTime:2012-6-17 13:59:32  Permit_Delete_Flag:1  
+2012-06-17 13:59:19  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFHeatGears::nFieldCount=4::282692 3 2012-6-1713:59:37 1  & 
+2012-06-17 13:59:19  ID:282692  Gears:3  MeasureTime:2012-6-17 13:59:37  Permit_Delete_Flag:1  
+2012-06-17 13:59:24  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFHeatGears::nFieldCount=4::282693 4 2012-6-1713:59:42 1  & 
+2012-06-17 13:59:24  ID:282693  Gears:4  MeasureTime:2012-6-17 13:59:42  Permit_Delete_Flag:1  
+2012-06-17 13:59:34  URI=XGMESLogic\RHMag\CRH_Unit_Mag\S51::METHOD=AcceptRHBlowArData::nFieldCount=5::294262 A 0 2012-6-1713:59:57 1  & 
+2012-06-17 13:59:34  ID:294262  AreaID:A  Flow_BlowAr:0  MeasureTime:2012-6-17 13:59:57  Permit_Delete_Flag:1  
+2012-06-17 13:59:49  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptMaterialDischargeData::nFieldCount=5:: LF_001.Addition.Store02 98.958 2012-6-1714:00:08 1  &  LF_001.Addition.Store09 90.538 2012-6-1714:00:08 1  & 
+2012-06-17 13:59:49  ID:0  PLC_Address:LF_001.Addition.Store02  Amount:98.958  Discharge_Time:2012-6-17 14:00:08  PERMIT_DELETE_FLAG:1  
+2012-06-17 13:59:49  ID:0  PLC_Address:LF_001.Addition.Store09  Amount:90.538  Discharge_Time:2012-6-17 14:00:08  PERMIT_DELETE_FLAG:1  
+2012-06-17 14:00:20  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFBlowArData::nFieldCount=5::112357 40.36458 B 2012-6-1714:00:39 1  & 
+2012-06-17 14:00:20  ID:112357  Flow_BlowAr:40.36458  AreaID:B  MeasureTime:2012-6-17 14:00:39  Permit_Delete_Flag:1  
+2012-06-17 14:00:25  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFHeatGears::nFieldCount=4::282694 5 2012-6-1714:00:48 1  & 
+2012-06-17 14:00:25  ID:282694  Gears:5  MeasureTime:2012-6-17 14:00:48  Permit_Delete_Flag:1  
+2012-06-17 14:00:26  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S43::METHOD=AcceptLFBlowArData::nFieldCount=5::220057 50.102 B 2012-6-1714:00:46 1  & 
+2012-06-17 14:00:26  ID:220057  Flow_BlowAr:50.102  AreaID:B  MeasureTime:2012-6-17 14:00:46  Permit_Delete_Flag:1  
+2012-06-17 14:00:31  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFHeatGears::nFieldCount=4::282695 6 2012-6-1714:00:53 1  & 
+2012-06-17 14:00:31  ID:282695  Gears:6  MeasureTime:2012-6-17 14:00:53  Permit_Delete_Flag:1  
+2012-06-17 14:01:07  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFBlowArData::nFieldCount=5::196286 148.7269 A 2012-6-1714:01:27 1  & 
+2012-06-17 14:01:07  ID:196286  Flow_BlowAr:148.7269  AreaID:A  MeasureTime:2012-6-17 14:01:27  Permit_Delete_Flag:1  
+2012-06-17 14:02:23  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S41::METHOD=AcceptLFTempData::nFieldCount=6::177687 1592 2 2012-6-1714:02:43 1 B  & 
+2012-06-17 14:02:23  ID:177687  Temperature:1592  Mode:2  MeasureTime:2012-6-17 14:02:43  PERMIT_DELETE_FLAG:1  AreaID:B  

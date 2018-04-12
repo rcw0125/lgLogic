@@ -1,0 +1,5 @@
+2012-06-28 14:19:49  L2CommLogic Loaded
+2012-06-28 14:21:25  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptMaterialDischargeData::nFieldCount=5::954 LF_004.LFAddition.Store01 1 2012/6/2813:29:46 1  & 
+2012-06-28 14:21:25  ID:954  PLC_Address:LF_004.LFAddition.Store01  Amount:1  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 14:22:47  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptMaterialDischargeData::nFieldCount=5::954 LF_004.LFAddition.Store01 1 2012/6/2813:29:46 1  & 
+2012-06-28 14:22:47  ID:954  PLC_Address:LF_004.LFAddition.Store01  Amount:1  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  

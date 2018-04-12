@@ -1,0 +1,17 @@
+2012-06-28 13:33:45  L2CommLogic Loaded
+2012-06-28 13:48:01  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptMaterialDischargeData::nFieldCount=5::1 LF_004.LFAddition.Store05 1 2012/6/2813:29:46 1  & 1 LF_004.LFAddition.Store05 1 2012/6/2813:29:46 1  & 
+2012-06-28 13:48:01  ID:1  PLC_Address:LF_004.LFAddition.Store05  Amount:1  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 13:48:01  ID:1  PLC_Address:LF_004.LFAddition.Store05  Amount:1  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 13:50:24  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptMaterialDischargeData::nFieldCount=5::2 LF_004.LFAddition.Store01 1 2012/6/2813:29:46 1  & 1 LF_004.LFAddition.Store05 1 2012/6/2813:29:46 1  & 
+2012-06-28 13:50:24  ID:2  PLC_Address:LF_004.LFAddition.Store01  Amount:1  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 13:50:24  ID:1  PLC_Address:LF_004.LFAddition.Store05  Amount:1  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 13:51:53  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptMaterialDischargeData::nFieldCount=5::2 LF_004.LFAddition.Store01 1 2012/6/2813:29:46 1  & 
+2012-06-28 13:51:53  ID:2  PLC_Address:LF_004.LFAddition.Store01  Amount:1  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 13:53:24  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptMaterialDischargeData::nFieldCount=5::2 LF_004.LFAddition.Store01 1 2012/6/2813:29:46 1  & 
+2012-06-28 13:53:24  ID:2  PLC_Address:LF_004.LFAddition.Store01  Amount:1  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 13:57:12  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptLFWireData::nFieldCount=6::2 LF_004.Wire.Code03 49.502 150 2012/6/2813:30:36 1  & 
+2012-06-28 13:57:12  ID:2  WireCode:LF_004.Wire.Code03  Weight:49.502  Speed:150  Wire_Time:2012/6/28 13:30:36  PERMIT_DELETE_FLAG:1  
+2012-06-28 13:57:50  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptMaterialDischargeData::nFieldCount=5::2 LF_004.LFAddition.Store01 1 2012/6/2813:29:46 1  & 
+2012-06-28 13:57:50  ID:2  PLC_Address:LF_004.LFAddition.Store01  Amount:1  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  
+2012-06-28 14:02:04  URI=XGMESLogic\LFMag\CLF_Unit_Mag\S44::METHOD=AcceptMaterialDischargeData::nFieldCount=5::6 LF_004.LFAddition.Store01 1 2012/6/2813:29:46 1  & 
+2012-06-28 14:02:04  ID:6  PLC_Address:LF_004.LFAddition.Store01  Amount:1  Discharge_Time:2012/6/28 13:29:46  PERMIT_DELETE_FLAG:1  

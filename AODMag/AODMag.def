@@ -1,0 +1,4 @@
+LIBRARY	"AODMag"
+EXPORTS
+    ; 此处可以是显式导出
+	GetL3Component

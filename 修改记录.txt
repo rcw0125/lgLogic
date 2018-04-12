@@ -1,0 +1,94 @@
+0375267 1111  SendBloomInStoreInfor  SendBloomInfor
+自2012-03-28 add by hyh 
+1、针对高炉铁水表，在表CBFIron中新增元素Sn、Sb、As、Pb；
+2、新增表CQA_Element_Std；
+3、后台新增 权限 ；
+4、在CMIF_UNIT_MAG中新增四个元素 Sn、Sb、As、Pb、   Sn_Cal、Sb_Cal、As_Cal、Pb_Cal；
+5、在后台表CIRON_DATA中新增四个元素；
+6、在后台新增CBase_UserPwd_Lock实体类和CBase_UserPwd_Lock_Mag管理类，用于解决后；
+7、在质量通讯配置上新增四个元素；
+8、在接收铁水样成分的后台方法AcceptLabIronElementText和AcceptLabIronElement中，修改内容以满足新增的四个元素；接收数据存入表CQA_Iron_Element中；
+9、在后台实体类CBOF_FEED_DATA中新增四个元素
+10、在后台方法“指定主原料”中修改方法，以满足在计算兑铁量及成分时满足新增的四个元素
+11、由于版本不一致，导致在混铁炉主画面“是否脱硫铁水确认”功能不存在，所以在后台新增方法 SetIsDes
+2016-3-29 
+1.转炉添加枪号功能
+2.转炉指定废钢恢复原来代码。Scrap_Slot_ID   not like 'B%'
+
+4.23
+炉壳号 FURNACENO
+内部影响时间  in_delay_time
+设备          shebei_delay_time
+介质          jiezhi_delay_time
+供辅          gongfu_delay_time
+等节奏   waiting_time
+准备     zhunbei_delay_time
+检修     jianxiu_delay_time
+
+        母液重量
+脱磷发送
+天车
+天车名称
+母液温度
+        
+o2  o2_consume
+n2  n2_consume
+ar  ar_consume
+n2-ar n2_ar_consume
+主吹  blow_o2_consume
+dec1  dec1_o2_consume
+dec2  dec2_o2_consume
+物料是否潮湿
+
+cr2o3   cr2o3
+
+2016-04-25
+修改AOD冶炼周期的计算方法
+
+
+5-4
+脱磷
+cdep_process_data 
+
+座包时间  Iron_Zuobao_Time
+离站时间  Iron_Depart_Time
+脱硅时间  Desi_Time
+脱磷时间  Dep_Time
+
+cdep_unit_mag
+脱硅开始  Desi_Start_time
+脱磷开始  DeP_Start_time
+脱硅时间  Desi_Time
+脱磷时间  Dep_Time
+脱磷标志  Dep_Flag
+-----------------
+	/// 钢包号
+	/// </Property>
+	DECLARE_L3PROP_STRING(LadleNo)
+
+		/// 钢包包龄
+	/// </Property>
+	DECLARE_L3PROP_FLOAT(LadleAge)
+
+			/// 钢包包壁最高温度
+	/// </Property>
+	DECLARE_L3PROP_LONG(Ladle_Bi_Temp)
+
+				/// 钢包渣线最高温度
+	/// </Property>
+	DECLARE_L3PROP_LONG(Ladle_Line_Temp)
+
+				/// 钢包包底最高温度
+	/// </Property>
+	DECLARE_L3PROP_LONG(Ladle_Bottom_Temp)
+
+	/// <Property class="CDEP_Process_Data" name="Ladle_Status" type="L3STRING">
+	/// 钢包状况
+	/// </Property>
+	DECLARE_L3PROP_STRING(Ladle_Status)
+
+
+cdep_feed_data 
+
+depart_weihgt  皮重
+
